@@ -1,0 +1,56 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.wiscodesoftwares.himnarioadventista",
+      "sha256_cert_fingerprints":
+        ["73:8D:4D:8A:3D:A5:8A:9E:FF:40:A7:E2:5C:1F:5A:03:B8:3E:27:43:39:74:48:9E:5D:8E:1F:7B:01:FC:A4:BC"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.wiscodesoftwares.hymnes_et_louanges",
+      "sha256_cert_fingerprints":
+        ["0A:F7:14:E7:86:A4:16:A2:3B:C1:5F:2B:C8:70:96:F3:35:DC:03:EF:CD:A9:C5:02:EE:DC:F9:F5:FD:BF:80:19"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.wiscodesoftwares.nyimbozakristo",
+      "sha256_cert_fingerprints":
+        ["8D:20:44:09:98:83:1C:74:C4:A9:18:DC:A5:44:18:4A:A8:87:B5:2D:F2:BD:D5:C7:D5:3F:12:47:11:FF:A2:3B"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.wiscodesoftwares.ogoterakwanyasaye",
+      "sha256_cert_fingerprints":
+        ["66:CF:96:93:C2:10:28:63:0A:E6:D8:A4:F8:1A:B0:F7:2F:9A:BD:30:94:5A:2A:BB:7E:38:4A:C4:56:C2:CA:A8"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.wiscodesoftwares.sdahymnal",
+      "sha256_cert_fingerprints":
+        ["1B:FE:A8:B8:C3:6F:D5:89:63:3A:43:44:29:B8:A3:D5:A2:A7:EC:AD:3A:83:83:34:48:87:6D:6E:2B:D0:2D:F2"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.wiscodesoftwares.wendenyasaye",
+      "sha256_cert_fingerprints":
+        ["3D:1B:E1:72:EE:B8:87:E8:CE:7C:DF:61:34:12:16:B6:67:8A:63:C1:03:2A:EE:B6:1A:49:CE:2C:CA:88:03:53"]
+    }
+  }
+]
